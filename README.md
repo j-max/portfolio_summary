@@ -30,7 +30,7 @@ Project Name: Three Year Recidivism in Iowa Penal System |[repo](https://github.
 - SMOTE/KFolds/Pipelines [here](https://github.com/j-max/recidivism/blob/master/modeling/model_oversample.py)
 7. Data science process
 - Baseline models, iteration, adjustment of metrics with regards to business question, selection of models based on interpretability [here](https://github.com/j-max/recidivism/tree/master/modeling)
-7. Supplemental packages:
+8. Supplemental packages:
 - [Statsmodels](https://github.com/j-max/recidivism/blob/master/modeling/logistic_for_p.py)
 
 Project Name: Project Gutenberg Book Recommender|[repo](https://github.com/j-max/gutenberg_recommender)
