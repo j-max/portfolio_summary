@@ -24,7 +24,8 @@ Project Name: Three Year Recidivism in Iowa Penal System |[repo](https://github.
 4. Statistical Modeling
 - [logistic regression](https://github.com/j-max/recidivism/blob/master/modeling/best_model.py)__
 5. [Machine learning methods](https://github.com/j-max/recidivism/tree/master/modeling)__
-- KNN/Random Forest/Logistic/XGBoost/SVC on over sampled data [here](https://github.com/j-max/recidivism/blob/master/modeling/smaller_model.py)__
+- KNN/Random Forest/Logistic/XGBoost/SVC [here](https://github.com/j-max/recidivism/blob/master/modeling/smaller_model.py)__
+- Test SMOTE [here](https://github.com/j-max/recidivism/blob/master/modeling/model_oversample.py)
 6. Supplemental packages:
 - [Statsmodels](https://github.com/j-max/recidivism/blob/master/modeling/logistic_for_p.py)
 
