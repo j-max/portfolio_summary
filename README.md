@@ -14,19 +14,23 @@ Project Name: Where to open a coffeeshop in Chicago |[repo](https://github.com/j
 Project Name: Three Year Recidivism in Iowa Penal System |[repo](https://github.com/j-max/recidivism)
 ====================
 ## Skills showcased  
-1. Data exploration and cleaning
+1. Python for data science
+- function packaging and importing, pickling [here](https://github.com/j-max/recidivism/blob/master/eda/encoding_funcs.py)
+2. Data exploration and cleaning
 - [eda.py](https://github.com/j-max/recidivism/blob/master/eda/eda.py) exploring the different categorical variables present in the dataset.
 - The file imports [functions](https://github.com/j-max/recidivism/tree/master/data) which bin the various groups to make the models simpler and more interpretable
-2. Storing a relational database on an AWS EC2 instance; sql alchemy; postgres implementation [here](https://github.com/j-max/recidivism/blob/master/data/aws_connection.ipynb)  
-3. Statistical Inference
+3. Storing a relational database on an AWS EC2 instance; sql alchemy; postgres implementation [here](https://github.com/j-max/recidivism/blob/master/data/aws_connection.ipynb)  
+4. Statistical Inference
 - [chi_squared tests](https://github.com/j-max/recidivism/blob/master/eda/hypothesis_test.py): tests for various categorical variables in the dataset
 - [logistic regression](https://github.com/j-max/recidivism/blob/master/modeling/best_model.py): Chosen for interpretability of model. Also see end of [README.md](https://github.com/j-max/recidivism)
-4. Statistical Modeling
+5. Statistical Modeling
 - [logistic regression](https://github.com/j-max/recidivism/blob/master/modeling/best_model.py)
-5. [Machine learning methods](https://github.com/j-max/recidivism/tree/master/modeling)
+6. [Machine learning methods](https://github.com/j-max/recidivism/tree/master/modeling)
 - KNN/Random Forest/Logistic/XGBoost/SVC [here](https://github.com/j-max/recidivism/blob/master/modeling/smaller_model.py)
 - SMOTE/KFolds/Pipelines [here](https://github.com/j-max/recidivism/blob/master/modeling/model_oversample.py)
-6. Supplemental packages:
+7. Data science process
+- Baseline models, iteration, adjustment of metrics with regards to business question, selection of models based on interpretability [here](https://github.com/j-max/recidivism/tree/master/modeling)
+7. Supplemental packages:
 - [Statsmodels](https://github.com/j-max/recidivism/blob/master/modeling/logistic_for_p.py)
 
 Project Name: Project Gutenberg Book Recommender|[repo](https://github.com/j-max/gutenberg_recommender)
