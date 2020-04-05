@@ -44,6 +44,6 @@ Project Name: Project Gutenberg Book Recommender|[repo](https://github.com/j-max
 Project Name: D3 Visualization of CPS Graduation Rates|[repo](https://github.com/j-max/d3_visualizations/blob/master/index.html)|[live_code](https://j-max.github.io/2019/06/19/CPSGradRatePlots/)
 ====================
 This is a small mini project showing a d3 visualization of CPS graduate rates across the 2017-18 school year. Click on the colored labels to see graduation rates for different demographics.
-- d3 code [here](https://github.com/j-max/d3_visualizations/blob/master/index.html
+- d3 code [here](https://github.com/j-max/d3_visualizations/blob/master/index.html)
 - live viz [here](https://j-max.github.io/2019/06/19/CPSGradRatePlots/)
 
