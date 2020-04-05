@@ -21,7 +21,8 @@ Project Name: Three Year Recidivism in Iowa Penal System |[repo](https://github.
 3. Statistical Inference
 - [chi_squared tests](https://github.com/j-max/recidivism/blob/master/eda/hypothesis_test.py): tests for various categorical variables in the dataset
 - [logistic regression](https://github.com/j-max/recidivism/blob/master/modeling/best_model.py): Chosen for interpretability of model. Also see end of [README.md](https://github.com/j-max/recidivism)
-4. [Statistical Modeling][logistic regression](https://github.com/j-max/recidivism/blob/master/modeling/best_model.py)__
+4. Statistical Modeling
+- [logistic regression](https://github.com/j-max/recidivism/blob/master/modeling/best_model.py)__
 5. [Machine learning methods](https://github.com/j-max/recidivism/tree/master/modeling)__
 - KNN/Random Forest/Logistic/XGBoost/SVC on over sampled data [here](https://github.com/j-max/recidivism/blob/master/modeling/smaller_model.py)__
 6. Supplemental packages:
