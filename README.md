@@ -1,4 +1,4 @@
-Project Name: Where to open a coffeeshop in Chicago |[link] https://github.com/j-max/where_to_open_a_coffeeshop_in_chicago
+Project Name: Where to open a coffeeshop in Chicago |[repo](https://github.com/j-max/where_to_open_a_coffeeshop_in_chicago)
 ====================
 ## Skills showcased
 1. github for collaboration 
@@ -11,9 +11,9 @@ Project Name: Where to open a coffeeshop in Chicago |[link] https://github.com/j
 - [Powerpoint Presentation](https://github.com/j-max/where_to_open_a_coffeeshop_in_chicago/blob/master/visualization/Metis_presentation.pptx)
 
 
-Project Name: Three Year Recidivism in Iowa Penal System |[link](https://github.com/j-max/recidivism)
+Project Name: Three Year Recidivism in Iowa Penal System |[repo](https://github.com/j-max/recidivism)
 ====================
-# Skills showcased  
+## Skills showcased  
 1. Data exploration and cleaning
 - [eda.py](https://github.com/j-max/recidivism/blob/master/eda/eda.py) exploring the different categorical variables present in the dataset.  
 - The file imports [functions](https://github.com/j-max/recidivism/tree/master/data) which bin the various groups to make the models simpler and more interpretable
@@ -27,8 +27,9 @@ Project Name: Three Year Recidivism in Iowa Penal System |[link](https://github.
 6. Supplemental packages:
 - [Statsmodels](https://github.com/j-max/recidivism/blob/master/modeling/logistic_for_p.py)
 
-Project Name: Project Gutenberg Book Recommender|  
+Project Name: Project Gutenberg Book Recommender|[repo](https://github.com/j-max/gutenberg_recommender)
 ====================
+## Skills showcased 
 1. Webscraping
 - Selenium/Beautiful Soup scraping top 100 most popular books from Project Gutenberg website [here](https://github.com/j-max/gutenberg_recommender/blob/master/notebooks/Gut_scrape.ipynb)
 2. NoSQL
@@ -38,7 +39,7 @@ Project Name: Project Gutenberg Book Recommender|
 4. NLP
 - [preprocessing/topic modeling](https://github.com/j-max/gutenberg_recommender/blob/master/notebooks/gutenberg_notebook.ipynb)
 
-Project Name: D3 Visualization of CPS Graduation Rates|[link](https://github.com/j-max/d3_visualizations/blob/master/index.html)|[link](https://j-max.github.io/2019/06/19/CPSGradRatePlots/)
+Project Name: D3 Visualization of CPS Graduation Rates|[repo](https://github.com/j-max/d3_visualizations/blob/master/index.html)|[live_code](https://j-max.github.io/2019/06/19/CPSGradRatePlots/)
 ====================
 This is a small mini project showing a d3 visualization of CPS graduate rates across the 2017-18 school year. Click on the colored labels to see graduation rates for different demographics.
 - d3 code [here](https://github.com/j-max/d3_visualizations/blob/master/index.html
