@@ -15,12 +15,12 @@ Project Name: Three Year Recidivism in Iowa Penal System |[repo](https://github.
 ====================
 ## Skills showcased  
 1. Data exploration and cleaning
-- [eda.py](https://github.com/j-max/recidivism/blob/master/eda/eda.py) exploring the different categorical variables present in the dataset.  
+- [eda.py](https://github.com/j-max/recidivism/blob/master/eda/eda.py) exploring the different categorical variables present in the dataset.
 - The file imports [functions](https://github.com/j-max/recidivism/tree/master/data) which bin the various groups to make the models simpler and more interpretable
 2. Storing a relational database on an AWS EC2 instance; sql alchemy; postgres implementation [here](https://github.com/j-max/recidivism/blob/master/data/aws_connection.ipynb)  
-3. Statistical Inference 
+3. Statistical Inference
 - [chi_squared tests](https://github.com/j-max/recidivism/blob/master/eda/hypothesis_test.py): tests for various categorical variables in the dataset
-- [logistic regression](https://github.com/j-max/recidivism/blob/master/modeling/best_model.py): Chosen for interpretability of model. Also see end of [README.md][https://github.com/j-max/recidivism]
+- [logistic regression](https://github.com/j-max/recidivism/blob/master/modeling/best_model.py): Chosen for interpretability of model. Also see end of [README.md](https://github.com/j-max/recidivism)
 4. [Statistical Modeling][logistic regression](https://github.com/j-max/recidivism/blob/master/modeling/best_model.py)__
 5. [Machine learning methods](https://github.com/j-max/recidivism/tree/master/modeling)__
 - KNN/Random Forest/Logistic/XGBoost/SVC on over sampled data [here](https://github.com/j-max/recidivism/blob/master/modeling/smaller_model.py)__
